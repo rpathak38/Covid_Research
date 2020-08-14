@@ -1,0 +1,169 @@
+Country,Geography code,Sex,Age,Main pre-existing condition,Number of deaths
+England and Wales,K04000001,Persons,0-44,No pre-existing condition,101
+England and Wales,K04000001,Persons,0-44,Influenza and pneumonia,82
+England and Wales,K04000001,Persons,0-44,Diabetes,29
+England and Wales,K04000001,Persons,0-44,Cirrhosis and other diseases of liver,27
+England and Wales,K04000001,Persons,0-44,Congenital malformations deformations and chromosomal abnormalities,17
+England and Wales,K04000001,Persons,0-44,Malignant neoplasms of lymphoid haematopoietic and related tissue,14
+England and Wales,K04000001,Persons,0-44,Chronic lower respiratory diseases,13
+England and Wales,K04000001,Persons,0-44,Hypertensive diseases,7
+England and Wales,K04000001,Persons,0-44,Ischaemic heart diseases,6
+England and Wales,K04000001,Persons,0-44,Malignant neoplasms of breast,6
+England and Wales,K04000001,Persons,0-44,Cerebrovascular diseases,5
+England and Wales,K04000001,Persons,0-44,Epilepsy and status epilepticus,4
+England and Wales,K04000001,Persons,0-44,Malignant neoplasm of colon sigmoid rectum and anus,4
+England and Wales,K04000001,Persons,0-44,Pulmonary heart disease and diseases of pulmonary circulation,4
+England and Wales,K04000001,Persons,0-44,Symptoms signs and ill-defined conditions,4
+England and Wales,K04000001,Persons,0-44,Cerebral palsy and other paralytic syndromes,3
+England and Wales,K04000001,Persons,0-44,Diseases of the urinary system,3
+England and Wales,K04000001,Persons,0-44,Heart failure and complications and ill-defined heart disease,3
+England and Wales,K04000001,Persons,0-44,Malignant neoplasm of brain,3
+England and Wales,K04000001,Persons,0-44,Mental and behavioural disorders due to psychoactive substance use,3
+England and Wales,K04000001,Persons,0-44,All deaths involving COVID-19,542
+England and Wales,K04000001,Persons,45-49,No pre-existing condition,91
+England and Wales,K04000001,Persons,45-49,Influenza and pneumonia,81
+England and Wales,K04000001,Persons,45-49,Diabetes,27
+England and Wales,K04000001,Persons,45-49,Cirrhosis and other diseases of liver,21
+England and Wales,K04000001,Persons,45-49,Chronic lower respiratory diseases,18
+England and Wales,K04000001,Persons,45-49,Ischaemic heart diseases,13
+England and Wales,K04000001,Persons,45-49,Cerebrovascular diseases,11
+England and Wales,K04000001,Persons,45-49,Hypertensive diseases,10
+England and Wales,K04000001,Persons,45-49,Transplanted organ and tissue status,7
+England and Wales,K04000001,Persons,45-49,Malignant neoplasms of lymphoid haematopoietic and related tissue,6
+England and Wales,K04000001,Persons,45-49,Malignant neoplasms of breast,5
+England and Wales,K04000001,Persons,45-49,Symptoms signs and ill-defined conditions,5
+England and Wales,K04000001,Persons,45-49,Diseases of the musculoskeletal system and connective tissue,4
+England and Wales,K04000001,Persons,45-49,Congenital malformations deformations and chromosomal abnormalities,3
+England and Wales,K04000001,Persons,45-49,Malignant neoplasm of trachea bronchus and lung,3
+England and Wales,K04000001,Persons,45-49,Secondary malignant neoplasm of other sites,3
+England and Wales,K04000001,Persons,45-49,Systemic atrophies primarily affecting the central nervous system,3
+England and Wales,K04000001,Persons,45-49,Cardiomyopathy,2
+England and Wales,K04000001,Persons,45-49,Diseases of the urinary system,2
+England and Wales,K04000001,Persons,45-49,Epilepsy and status epilepticus,2
+England and Wales,K04000001,Persons,45-49,All deaths involving COVID-19,457
+England and Wales,K04000001,Persons,50-54,Influenza and pneumonia,126
+England and Wales,K04000001,Persons,50-54,No pre-existing condition,123
+England and Wales,K04000001,Persons,50-54,Chronic lower respiratory diseases,64
+England and Wales,K04000001,Persons,50-54,Diabetes,52
+England and Wales,K04000001,Persons,50-54,Cirrhosis and other diseases of liver,45
+England and Wales,K04000001,Persons,50-54,Hypertensive diseases,41
+England and Wales,K04000001,Persons,50-54,Ischaemic heart diseases,41
+England and Wales,K04000001,Persons,50-54,Cerebrovascular diseases,23
+England and Wales,K04000001,Persons,50-54,Malignant neoplasms of lymphoid haematopoietic and related tissue,15
+England and Wales,K04000001,Persons,50-54,Malignant neoplasms of breast,11
+England and Wales,K04000001,Persons,50-54,Diseases of the urinary system,9
+England and Wales,K04000001,Persons,50-54,Malignant neoplasm of trachea bronchus and lung,8
+England and Wales,K04000001,Persons,50-54,Multiple sclerosis,7
+England and Wales,K04000001,Persons,50-54,Malignant neoplasm of colon sigmoid rectum and anus,6
+England and Wales,K04000001,Persons,50-54,Symptoms signs and ill-defined conditions,6
+England and Wales,K04000001,Persons,50-54,Congenital malformations deformations and chromosomal abnormalities,5
+England and Wales,K04000001,Persons,50-54,Diseases of the musculoskeletal system and connective tissue,5
+England and Wales,K04000001,Persons,50-54,Intracranial injury,5
+England and Wales,K04000001,Persons,50-54,Malignant neoplasm of brain,5
+England and Wales,K04000001,Persons,50-54,Mental and behavioural disorders due to psychoactive substance use,4
+England and Wales,K04000001,Persons,50-54,All deaths involving COVID-19,847
+England and Wales,K04000001,Persons,55-59,No pre-existing condition,227
+England and Wales,K04000001,Persons,55-59,Influenza and pneumonia,161
+England and Wales,K04000001,Persons,55-59,Chronic lower respiratory diseases,124
+England and Wales,K04000001,Persons,55-59,Ischaemic heart diseases,110
+England and Wales,K04000001,Persons,55-59,Hypertensive diseases,93
+England and Wales,K04000001,Persons,55-59,Diabetes,81
+England and Wales,K04000001,Persons,55-59,Cirrhosis and other diseases of liver,51
+England and Wales,K04000001,Persons,55-59,Malignant neoplasm of trachea bronchus and lung,33
+England and Wales,K04000001,Persons,55-59,Malignant neoplasms of lymphoid haematopoietic and related tissue,32
+England and Wales,K04000001,Persons,55-59,Cerebrovascular diseases,30
+England and Wales,K04000001,Persons,55-59,Congenital malformations deformations and chromosomal abnormalities,22
+England and Wales,K04000001,Persons,55-59,Malignant neoplasms of breast,16
+England and Wales,K04000001,Persons,55-59,Diseases of the urinary system,15
+England and Wales,K04000001,Persons,55-59,Transplanted organ and tissue status,15
+England and Wales,K04000001,Persons,55-59,Dementia and Alzheimer's disease,12
+England and Wales,K04000001,Persons,55-59,Malignant neoplasm of colon sigmoid rectum and anus,12
+England and Wales,K04000001,Persons,55-59,Heart failure and complications and ill-defined heart disease,9
+England and Wales,K04000001,Persons,55-59,Systemic atrophies primarily affecting the central nervous system,7
+England and Wales,K04000001,Persons,55-59,Malignant neoplasm of brain,6
+England and Wales,K04000001,Persons,55-59,Multiple sclerosis,6
+England and Wales,K04000001,Persons,55-59,All deaths involving COVID-19,"1,453"
+England and Wales,K04000001,Persons,60-64,Influenza and pneumonia,264
+England and Wales,K04000001,Persons,60-64,No pre-existing condition,230
+England and Wales,K04000001,Persons,60-64,Ischaemic heart diseases,222
+England and Wales,K04000001,Persons,60-64,Chronic lower respiratory diseases,209
+England and Wales,K04000001,Persons,60-64,Hypertensive diseases,108
+England and Wales,K04000001,Persons,60-64,Diabetes,103
+England and Wales,K04000001,Persons,60-64,Cerebrovascular diseases,60
+England and Wales,K04000001,Persons,60-64,Malignant neoplasms of lymphoid haematopoietic and related tissue,54
+England and Wales,K04000001,Persons,60-64,Cirrhosis and other diseases of liver,39
+England and Wales,K04000001,Persons,60-64,Dementia and Alzheimer's disease,39
+England and Wales,K04000001,Persons,60-64,Malignant neoplasm of trachea bronchus and lung,39
+England and Wales,K04000001,Persons,60-64,Diseases of the urinary system,27
+England and Wales,K04000001,Persons,60-64,Transplanted organ and tissue status,23
+England and Wales,K04000001,Persons,60-64,Multiple sclerosis,17
+England and Wales,K04000001,Persons,60-64,Other medical care,14
+England and Wales,K04000001,Persons,60-64,Malignant neoplasm of prostate,13
+England and Wales,K04000001,Persons,60-64,Malignant neoplasms of breast,13
+England and Wales,K04000001,Persons,60-64,Pulmonary heart disease and diseases of pulmonary circulation,13
+England and Wales,K04000001,Persons,60-64,Symptoms signs and ill-defined conditions,12
+England and Wales,K04000001,Persons,60-64,Malignant neoplasm of colon sigmoid rectum and anus,10
+England and Wales,K04000001,Persons,60-64,All deaths involving COVID-19,"2,065"
+England and Wales,K04000001,Persons,65-69,Chronic lower respiratory diseases,334
+England and Wales,K04000001,Persons,65-69,Influenza and pneumonia,320
+England and Wales,K04000001,Persons,65-69,Ischaemic heart diseases,293
+England and Wales,K04000001,Persons,65-69,No pre-existing condition,293
+England and Wales,K04000001,Persons,65-69,Diabetes,164
+England and Wales,K04000001,Persons,65-69,Cerebrovascular diseases,115
+England and Wales,K04000001,Persons,65-69,Dementia and Alzheimer's disease,110
+England and Wales,K04000001,Persons,65-69,Hypertensive diseases,75
+England and Wales,K04000001,Persons,65-69,Malignant neoplasm of trachea bronchus and lung,70
+England and Wales,K04000001,Persons,65-69,Malignant neoplasms of lymphoid haematopoietic and related tissue,69
+England and Wales,K04000001,Persons,65-69,Cirrhosis and other diseases of liver,48
+England and Wales,K04000001,Persons,65-69,Diseases of the urinary system,46
+England and Wales,K04000001,Persons,65-69,Symptoms signs and ill-defined conditions,25
+England and Wales,K04000001,Persons,65-69,Multiple sclerosis,23
+England and Wales,K04000001,Persons,65-69,Pulmonary oedema and other intestinal pulmonary diseases,21
+England and Wales,K04000001,Persons,65-69,Malignant neoplasm of colon sigmoid rectum and anus,18
+England and Wales,K04000001,Persons,65-69,Secondary malignant neoplasm of other sites,18
+England and Wales,K04000001,Persons,65-69,Heart failure and complications and ill-defined heart disease,16
+England and Wales,K04000001,Persons,65-69,Malignant neoplasm of prostate,16
+England and Wales,K04000001,Persons,65-69,Diseases of the musculoskeletal system and connective tissue,15
+England and Wales,K04000001,Persons,65-69,All deaths involving COVID-19,"2,791"
+England and Wales,K04000001,Persons,70-74,Chronic lower respiratory diseases,703
+England and Wales,K04000001,Persons,70-74,Ischaemic heart diseases,559
+England and Wales,K04000001,Persons,70-74,Dementia and Alzheimer's disease,471
+England and Wales,K04000001,Persons,70-74,Influenza and pneumonia,430
+England and Wales,K04000001,Persons,70-74,No pre-existing condition,407
+England and Wales,K04000001,Persons,70-74,Diabetes,233
+England and Wales,K04000001,Persons,70-74,Cerebrovascular diseases,210
+England and Wales,K04000001,Persons,70-74,Hypertensive diseases,114
+England and Wales,K04000001,Persons,70-74,Malignant neoplasm of trachea bronchus and lung,110
+England and Wales,K04000001,Persons,70-74,Diseases of the urinary system,98
+England and Wales,K04000001,Persons,70-74,Malignant neoplasms of lymphoid haematopoietic and related tissue,93
+England and Wales,K04000001,Persons,70-74,Parkinson's disease,62
+England and Wales,K04000001,Persons,70-74,Malignant neoplasm of prostate,49
+England and Wales,K04000001,Persons,70-74,Symptoms signs and ill-defined conditions,40
+England and Wales,K04000001,Persons,70-74,Heart failure and complications and ill-defined heart disease,30
+England and Wales,K04000001,Persons,70-74,Malignant neoplasm of colon sigmoid rectum and anus,30
+England and Wales,K04000001,Persons,70-74,Pulmonary oedema and other intestinal pulmonary diseases,25
+England and Wales,K04000001,Persons,70-74,Secondary malignant neoplasm of other sites,23
+England and Wales,K04000001,Persons,70-74,Malignant neoplasms of breast,20
+England and Wales,K04000001,Persons,70-74,Cirrhosis and other diseases of liver,19
+England and Wales,K04000001,Persons,70-74,All deaths involving COVID-19,"4,627"
+England and Wales,K04000001,Persons,75-79,Dementia and Alzheimer's disease,"1,367"
+England and Wales,K04000001,Persons,75-79,Chronic lower respiratory diseases,894
+England and Wales,K04000001,Persons,75-79,Ischaemic heart diseases,840
+England and Wales,K04000001,Persons,75-79,Influenza and pneumonia,532
+England and Wales,K04000001,Persons,75-79,No pre-existing condition,519
+England and Wales,K04000001,Persons,75-79,Cerebrovascular diseases,249
+England and Wales,K04000001,Persons,75-79,Diabetes,249
+England and Wales,K04000001,Persons,75-79,Diseases of the urinary system,168
+England and Wales,K04000001,Persons,75-79,Hypertensive diseases,120
+England and Wales,K04000001,Persons,75-79,Parkinson's disease,103
+England and Wales,K04000001,Persons,75-79,Malignant neoplasm of trachea bronchus and lung,98
+England and Wales,K04000001,Persons,75-79,Symptoms signs and ill-defined conditions,90
+England and Wales,K04000001,Persons,75-79,Malignant neoplasms of lymphoid haematopoietic and related tissue,83
+England and Wales,K04000001,Persons,75-79,Malignant neoplasm of prostate,79
+England and Wales,K04000001,Persons,75-79,Heart failure and complications and ill-defined heart disease,43
+England and Wales,K04000001,Persons,75-79,Pulmonary oedema and other intestinal pulmonary diseases,38
+England and Wales,K04000001,Persons,75-79,Other degenerative diseases of nervous system not elsewhere classified,35
+England and Wales,K04000001,Persons,75-79,Fracture of femur,32
+England and Wales,K04000001,Persons,75-79,Malignant neoplasms of breast,28
+England and Wales,K04000001,Persons,75-79,Diseases of the musculoskeletal system and connective tissue,22
+England and Wales,K04000001,Persons,75-79,All deaths involving COVID-19,"6,693"
