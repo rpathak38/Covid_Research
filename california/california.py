@@ -1,4 +1,5 @@
 import csv
+import math
 
 with open("california_covid_death_age_distribution") as fin:
     csv_reader = [line for line in csv.reader(fin)]
